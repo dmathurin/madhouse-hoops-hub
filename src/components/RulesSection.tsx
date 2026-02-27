@@ -3,9 +3,8 @@ import { Check, AlertTriangle } from "lucide-react";
 const rules = [
   { text: "Non-marking athletic shoes are mandatory — no exceptions.", type: "must" },
   { text: "Bring your own basketball for warm-ups.", type: "must" },
-  { text: "Dark and white shirts required — teams split by colour.", type: "must" },
   { text: "Call your own fouls. Keep it clean, keep it moving.", type: "rule" },
-  { text: "Games to 11 or 15 — losers sit, winners stay.", type: "rule" },
+  { text: "Games to 7 or 9 — losers sit, winners stay.", type: "rule" },
   { text: "No hanging on rims. Respect the facility.", type: "must" },
   { text: "Show up on time. Late arrivals forfeit their spot.", type: "rule" },
   { text: "$7 paid at the door — exact change appreciated.", type: "rule" },
